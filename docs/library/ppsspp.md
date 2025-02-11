@@ -122,7 +122,7 @@ The PPSSPP core saves/loads to/from these directories.
 
 ```
 .
-└── PSP/
+└─state─ PSP/
        ├── PPSSPP_STATE/ (Used to be the state directory, no longer used)
        ├── SAVEDATA/ (In-game saves)
        ├── flash0/ (Font override for real fonts dumped from PSP system)
